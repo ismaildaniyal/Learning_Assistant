@@ -3,7 +3,7 @@ requests
 language_tool_python
 difflib
 pyaudio
+wave
 numpy
 matplotlib
 pydub
-deepgram-sdk
