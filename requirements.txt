@@ -1,9 +1,9 @@
 streamlit
 requests
 language_tool_python
-difflib
-pyaudio
-wave
+pyaudio  # Replace with sounddevice if deployment fails
 numpy
 matplotlib
 pydub
+sounddevice  # Optional alternative to pyaudio
+wave  # Not needed in requirements.txt (built-in module)
