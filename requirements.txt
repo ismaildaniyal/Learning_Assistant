@@ -1,6 +1,7 @@
 streamlit
 requests
 language_tool_python
+pyaudio  # Replace with sounddevice if deployment fails
 numpy
 matplotlib
 pydub
