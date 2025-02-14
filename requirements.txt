@@ -1,8 +1,9 @@
-pip install streamlit
-pip install requests
-pip install language-tool-python
-pip install pyaudio
-pip install numpy
-pip install matplotlib
-pip install pydub
-pip install deepgram-sdk
+streamlit
+requests
+language_tool_python
+difflib
+pyaudio
+numpy
+matplotlib
+pydub
+deepgram-sdk
