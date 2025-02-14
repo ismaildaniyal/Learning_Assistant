@@ -15,8 +15,7 @@ from io import BytesIO
 from pydub import AudioSegment
 
 # Deepgram API Key (Replace with your own)
-DEEPGRAM_API_KEY = "2639cacaad008c296faec98375c783987d058fa4"
-
+DEEPGRAM_API_KEY = st.secrets["google"]["deepgram_api_key"]
 # Initialize LanguageTool for grammar check
 tool = language_tool_python.LanguageToolPublicAPI('en-US')
 
