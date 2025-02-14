@@ -1,1 +1,2 @@
 ffmpeg
+pyaudio  # Replace with sounddevice if deployment fails
