@@ -1,0 +1,10 @@
+streamlit
+requests
+language-tool-python
+difflib
+pyaudio
+wave
+numpy
+matplotlib
+pydub
+deepgram-sdk
